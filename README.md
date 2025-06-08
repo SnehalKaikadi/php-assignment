@@ -1,6 +1,8 @@
 # php-task
 
 ---
+user-api file is for backend
+user-crud-react is for frontend
 
 ## ▶️ How to Run the Application
 
